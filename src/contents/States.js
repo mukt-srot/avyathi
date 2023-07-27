@@ -1,0 +1,210 @@
+export const states = [
+    {
+        id: 1,
+        name: "Delhi",
+        website: "https://cyber.delhipolice.gov.in/",
+        twitter: "https://twitter.com/dcp_ccc_delhi"
+    },
+    {
+        id: 2,
+        name: "Andhra Pradesh",
+        website: "https://cid.appolice.gov.in/cid/template/cyber/crime/Cyber-Crimes",
+        twitter: "https://twitter.com/APPOLICE100",
+    },
+    {
+        id: 3,
+        name: "Assam",
+        website: "https://police.assam.gov.in/",
+        twitter: "https://twitter.com/assampolice",
+    },
+    {
+        id: 4,
+        name: "Bihar",
+        website: "http://police.bihar.gov.in/",
+        twitter: "https://twitter.com/bihar_police",
+    },
+
+    {
+        id: 5,
+        name: "Chhattisgarh",
+        website: "https://cgpolice.gov.in/",
+        twitter: "https://twitter.com/CG_cyberpolice",
+    },
+
+    {
+        id: 6,
+        name: "Goa",
+        website: "https://citizen.goapolice.gov.in/",
+        twitter: "https://twitter.com/DGP_Goa",
+    },
+    {
+        id: 7,
+        name: "Gujarat",
+        website: "https://police.gujarat.gov.in/dgp/default.aspx",
+        twitter: "https://twitter.com/GujaratPolice",
+    },
+
+    {
+        id: 8,
+        name: "Haryana",
+        website: "https://haryanapolice.gov.in/",
+        twitter: "https://twitter.com/police_haryana",
+    },
+    {
+        id: 9,
+        name: "Himachal Pradesh",
+        website: "http://citizenportal.hppolice.gov.in:8080/citizen/login.htm",
+        twitter: "https://twitter.com/himachalpolice",
+    },
+    {
+        id: 10,
+        name: "Jammu and Kashmir",
+        website: "https://www.jkpolice.gov.in/",
+        twitter: "https://twitter.com/JmuKmrPolice",
+    },
+    {
+        id: 11,
+        name: "Jharkhand",
+        website: "https://jhpolice.gov.in/",
+        twitter: "https://twitter.com/JharkhandPolice",
+    },
+    {
+        id: 12,
+        name: "Karnataka",
+        website: "https://ksp.karnataka.gov.in/english",
+        twitter: "https://twitter.com/DgpKarnataka",
+    },
+    {
+        id: 13,
+        name: "Kerala",
+        website: "https://keralapolice.gov.in/",
+        twitter: "https://twitter.com/TheKeralaPolice",
+    },
+    {
+        id: 14,
+        name: "Madhya Pradesh",
+        website: "https://www.mppolice.gov.in/en",
+        twitter: "https://twitter.com/mpcyberpolice",
+    },
+    {
+        id: 15,
+        name: "Maharashtra",
+        website: "https://www.mahapolice.gov.in/",
+        twitter: "https://twitter.com/MahaCyber1",
+    },
+    {
+        id: 16,
+        name: "Manipur",
+        website: "https://www.manipurpolice.gov.in/",
+        twitter: "https://twitter.com/manipur_police",
+    },
+    {
+        id: 17,
+        name: "Meghalaya",
+        website: "https://megpolice.gov.in/",
+        twitter: "https://twitter.com/MeghalayaPolice",
+    },
+    {
+        id: 18,
+        name: "Mizoram",
+        website: "https://police.mizoram.gov.in/",
+        twitter: "https://twitter.com/mizorampolice",
+    },
+    {
+        id: 19,
+        name: "Nagaland",
+        website: "https://police.nagaland.gov.in/",
+        twitter: "https://twitter.com/DGP_Nagaland",
+    },
+    {
+        id: 20,
+        name: "Odisha",
+        website: "https://www.odishapolice.gov.in/",
+        twitter: "https://twitter.com/odisha_police",
+    },
+    {
+        id: 21,
+        name: "Punjab",
+        website: "https://www.punjabpolice.gov.in/",
+        twitter: "https://twitter.com/PunjabPoliceind",
+    },
+    {
+        id: 22,
+        name: "Rajasthan",
+        website: "https://www.police.rajasthan.gov.in/",
+        twitter: "https://twitter.com/RajPoliceHelp",
+    },
+    {
+        id: 23,
+        name: "Sikkim",
+        website: "https://police.sikkim.gov.in/visitors",
+        twitter: "null",
+    },
+    {
+        id: 24,
+        name: "Tamil Nadu",
+        website: "https://eservices.tnpolice.gov.in/CCTNSNICSDC/Index?0",
+        twitter: "https://twitter.com/tncybercrimeoff",
+    },
+    {
+        id: 26,
+        name: "Telangana",
+        website: "https://www.tspolice.gov.in/jsp/homePage?method=getHomePageElements",
+        twitter: "https://twitter.com/TSCSB_",
+    },
+    {
+        id: 27,
+        name: "Tripura",
+        website: "https://tripurapolice.gov.in/",
+        twitter: "https://twitter.com/Tripura_Police",
+    },
+    {
+        id: 28,
+        name: "Uttar Pradesh",
+        website: "https://uppolice.gov.in/article/en/cyber-crime",
+        twitter: "https://twitter.com/cyberpolice_up/",
+    },
+    {
+        id: 29,
+        name: "Uttarakhand",
+        website: "https://uttarakhandpolice.uk.gov.in/",
+        twitter: "https://twitter.com/UKCyberPolice",
+    },
+    {
+        id: 30,
+        name: "Andaman and Nicobar Islands",
+        website: "https://police.andaman.gov.in/index.php/en/",
+        twitter: "https://twitter.com/AndamanPolice",
+    },
+    {
+        id: 31,
+        name: "Chandigarh",
+        website: "https://chandigarhpolice.gov.in/",
+        twitter: "https://twitter.com/ChdCyberCell",
+    },
+    {
+        id: 32,
+        name: "Dadra and Nagar Haveli and Daman and Diu",
+        website: "https://police.ddd.gov.in/",
+        twitter: "null",
+    },
+    {
+        id: 33,
+        name: "Ladakh",
+        website: "https://police.ladakh.gov.in/",
+        twitter: "https://twitter.com/igpladakh",
+    },
+    {
+        id: 34,
+        name: "Lakshadweep",
+        website: "http://lakshadweeppolice.gov.in",
+        twitter: "null",
+    },
+    {
+        id: 35,
+        name: "Puducherry",
+        website: "https://police.py.gov.in/",
+        twitter: "https://twitter.com/PuducheryPolice",
+    },
+];
+
