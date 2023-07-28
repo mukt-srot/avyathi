@@ -40,7 +40,7 @@
                     Email &nbsp;
                     <input
                       {email} 
-                      placeholder="Enter your email here (optional)"
+                      placeholder="Enter email (optional)"
                       type="email" 
                       class="rounded-lg outline-none"
                     />
