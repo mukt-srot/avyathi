@@ -6,6 +6,7 @@
     "dev": "vite dev",
     "build": "vite build",
     "preview": "vite preview",
+    "format-svelte": "npx prettier --write --plugin prettier-plugin-svelte .",
     "format": "npx prettier --write ."
   },
   "devDependencies": {
